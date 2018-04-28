@@ -1,0 +1,9 @@
+Thumbs.db
+*.bak
+*.cache
+*.log
+
+bin/
+node_modules/
+
+.idea/
